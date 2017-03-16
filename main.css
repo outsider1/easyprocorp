@@ -6766,7 +6766,7 @@ a.bg-inverse:focus, a.bg-inverse:hover {
   font-weight: normal; }
 
 .font-weight-bold {
-  font-weight: bold; }
+  font-weight: 700; }
 
 .font-italic {
   font-style: italic; }
